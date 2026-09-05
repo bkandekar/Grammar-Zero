@@ -1,0 +1,10 @@
+{
+  "name": "zeroerrorenglish",
+  "version": "2.0.0",
+  "description": "ZeroErrorEnglish — English Grammar Education and Blogging Ecosystem",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "Balu Kandekar",
+  "license": "MIT"
+}

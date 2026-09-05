@@ -1,0 +1,6 @@
+{
+  "name": "ZeroErrorEnglish",
+  "description": "Master English Grammar for competitive exams. Rules, practice questions, quizzes, and exam-focused KDP eBooks by Balu Kandekar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
